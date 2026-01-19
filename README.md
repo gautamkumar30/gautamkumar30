@@ -1,86 +1,50 @@
-# 👋 Hi, I’m Gautam Kumar G
-
-**Software Engineer | Backend & Full Stack | AI-Powered SaaS Systems | AI & LLMs**  
+# 👋 Hi, I’m Gautam Kumar G  
+**Software Engineer | Backend, Full Stack & AI-Powered SaaS**  
 📍 Chennai, India
 
-I’m a software engineer with **1+ year of hands-on experience building production-grade SaaS platforms** in fast-moving startup environments. I specialize in **backend systems, API design, and AI-driven workflows**, with strong full-stack experience when product velocity demands it.
+Software Engineer with **1+ year of hands-on experience building production-grade SaaS platforms** in fast-paced startup environments. I specialize in **backend systems, scalable APIs, and AI-driven workflows**, with strong full-stack ownership when needed.
 
-I enjoy owning systems **end-to-end** — from architecture and implementation to deployment, monitoring, and iteration.
-
----
-
-## 🚀 About Me
-
-- 💻 Software Engineer experienced in **backend, full stack, and cloud-native development**
-- 🤖 Built **AI-powered platforms** using LLMs, semantic search, and automation workflows
-- 🏗️ Strong focus on **scalable APIs, async processing, and system reliability**
-- 📈 Shipped real-world features that improved **usage, performance, and operational efficiency**
-- 🎯 Actively exploring **backend / full stack / SDE roles**
+I enjoy owning systems **end-to-end** — from architecture and implementation to deployment and iteration.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 What I Do
 
-### Languages
-TypeScript · JavaScript · Python · Java
+- Build **scalable backend systems** and clean REST APIs  
+- Develop **AI-powered features** using LLMs, semantic search, and automation  
+- Design **async workflows and reliable services** for real-world products  
+- Ship features that improve **usage, performance, and operational efficiency**  
+- Open to **Backend / Full Stack / SDE roles**
 
-### Backend & Systems
-Node.js · Express · FastAPI · REST APIs · Async Processing · Background Jobs
+---
 
-### Databases
-PostgreSQL · MongoDB · Redis · SQL
+## 🛠️ Core Skills
 
-### Frontend
-React · Next.js · Tailwind CSS
-
-### AI / ML
-LLM Integrations (Google Gemini, Vapi AI) · Semantic Search · NLP Pipelines · Agent-based Workflows
-
-### Cloud & DevOps
-AWS · Docker · Nginx · CI/CD · Linux · Git
+**Languages:** TypeScript, Python, Java  
+**Backend:** Node.js, FastAPI, REST APIs, Async Processing  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**Frontend:** React, Next.js  
+**AI:** LLM integrations (Google Gemini, Vapi AI), semantic search  
+**Cloud:** AWS, Docker, Nginx, CI/CD
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🧠 Kontract.ai — AI-Powered Contract & Document Monitoring
-**Full-stack AI SaaS for document intelligence and compliance workflows**
-
-- Built semantic clause analysis, document change detection, and automated risk classification
-- Designed end-to-end backend pipelines for document ingestion, processing, and monitoring
-- Mirrors real-world legal-tech and enterprise document intelligence systems
-
-**Tech:** FastAPI, Node.js, React, PostgreSQL, Google Gemini, scikit-learn, n8n
-
----
+### 🧠 Kontract.ai — AI-Powered Document Monitoring
+AI SaaS for semantic document analysis, change detection, and risk classification.  
+**Tech:** FastAPI, Node.js, React, PostgreSQL, Google Gemini
 
 ### 🎤 Mockly — AI-Native Interview Platform
-**AI-driven interview platform with voice-based agents**
-
-- Built AI-powered interview flows with dynamic question adaptation
-- Implemented stateful LLM orchestration and real-time feedback generation
-- Designed full-stack workflows similar to enterprise assessment platforms
-
-**Tech:** Next.js, TypeScript, Vapi AI, Google Gemini, Firebase
+Voice-based AI interview platform with dynamic questioning and real-time feedback.  
+**Tech:** Next.js, TypeScript, Vapi AI, Google Gemini
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamkumar30&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
-
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkumar30&layout=compact&theme=transparent)
-
----
-
-## 🌱 Currently Focusing On
-
-- Building scalable backend systems
-- Designing AI-powered SaaS workflows
-- Improving system design and distributed systems fundamentals
-- Writing clean, maintainable production code
 
 ---
 
@@ -89,6 +53,4 @@ AWS · Docker · Nginx · CI/CD · Linux · Git
 - 💼 LinkedIn: https://linkedin.com/in/gautamkumarg  
 - 📧 Email: gautamkumarganesan@gmail.com  
 
----
-
-⭐ If you’re a recruiter or engineer reviewing my profile — feel free to reach out.
+⭐ *Always happy to discuss backend systems, AI products, and engineering challenges.*
