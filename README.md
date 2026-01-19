@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gautam Kumar G
 
-**Software Engineer | Backend & Full Stack | AI-Powered SaaS Systems**  
+**Software Engineer | Backend & Full Stack | AI-Powered SaaS Systems | AI & LLMs**  
 📍 Chennai, India
 
 I’m a software engineer with **1+ year of hands-on experience building production-grade SaaS platforms** in fast-moving startup environments. I specialize in **backend systems, API design, and AI-driven workflows**, with strong full-stack experience when product velocity demands it.
