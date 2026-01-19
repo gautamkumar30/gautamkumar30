@@ -67,7 +67,8 @@ AWS · Docker · Nginx · CI/CD · Linux · Git
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamkumar30&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamkumar30&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=gautamkumar30&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkumar30&layout=compact&theme=transparent)
 
 ---
